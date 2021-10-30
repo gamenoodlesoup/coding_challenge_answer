@@ -101,7 +101,7 @@ for i in range(2):
   agent.move("left")
   pass
 
-for i in range(7):
+for i in range(8):
   agent.move("forward")
   pass
 
