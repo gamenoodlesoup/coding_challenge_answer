@@ -1,6 +1,6 @@
 # Laundry Collection Challenge Answer
 
-## Answer 1
+## Suggest Answer
 ```
 # Code Here !
 for i in range(2):
